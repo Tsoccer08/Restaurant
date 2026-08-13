@@ -1,0 +1,15 @@
+C:\Users\Troy\Documents\cse210-hw\final\FinalProject\bin\Debug\net10.0\FinalProject.exe
+C:\Users\Troy\Documents\cse210-hw\final\FinalProject\bin\Debug\net10.0\FinalProject.deps.json
+C:\Users\Troy\Documents\cse210-hw\final\FinalProject\bin\Debug\net10.0\FinalProject.runtimeconfig.json
+C:\Users\Troy\Documents\cse210-hw\final\FinalProject\bin\Debug\net10.0\FinalProject.dll
+C:\Users\Troy\Documents\cse210-hw\final\FinalProject\bin\Debug\net10.0\FinalProject.pdb
+C:\Users\Troy\Documents\cse210-hw\final\FinalProject\obj\Debug\net10.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Troy\Documents\cse210-hw\final\FinalProject\obj\Debug\net10.0\FinalProject.AssemblyInfoInputs.cache
+C:\Users\Troy\Documents\cse210-hw\final\FinalProject\obj\Debug\net10.0\FinalProject.AssemblyInfo.cs
+C:\Users\Troy\Documents\cse210-hw\final\FinalProject\obj\Debug\net10.0\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Troy\Documents\cse210-hw\final\FinalProject\obj\Debug\net10.0\FinalProject.sourcelink.json
+C:\Users\Troy\Documents\cse210-hw\final\FinalProject\obj\Debug\net10.0\FinalProject.dll
+C:\Users\Troy\Documents\cse210-hw\final\FinalProject\obj\Debug\net10.0\refint\FinalProject.dll
+C:\Users\Troy\Documents\cse210-hw\final\FinalProject\obj\Debug\net10.0\FinalProject.pdb
+C:\Users\Troy\Documents\cse210-hw\final\FinalProject\obj\Debug\net10.0\FinalProject.genruntimeconfig.cache
+C:\Users\Troy\Documents\cse210-hw\final\FinalProject\obj\Debug\net10.0\ref\FinalProject.dll
